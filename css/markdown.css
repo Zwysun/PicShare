@@ -7,7 +7,7 @@ html {
 
 body {
   color: #444;
-  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-family: Georgia, Palatino, "MI LANTING", "PingFang SC", "Microsoft YaHei", 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-size: 12px;
   line-height: 1.5em;
   padding: 1em;
@@ -63,7 +63,7 @@ a::selection {
 }
 
 p {
-  margin: 1.5em 0;
+  margin: 1em 0;
 }
 
 img {
@@ -212,13 +212,13 @@ td {
 
 @media only screen and (min-width: 480px) {
   body {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
 @media only screen and (min-width: 768px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
